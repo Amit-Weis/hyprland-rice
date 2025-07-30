@@ -1,0 +1,2401 @@
+2024-09-25 21:04:17: App: Profile directory: /home/taust/.config/joplin
+2024-09-25 21:04:17: App: Root profile directory: /home/taust/.config/joplin
+2024-09-25 21:04:17: Database was open successfully
+2024-09-25 21:04:17: Checking for database schema update...
+2024-09-25 21:04:17: Current database version <null>
+2024-09-25 21:04:17: Upgrading database from version 0
+2024-09-25 21:04:17: Converting database to version 1
+2024-09-25 21:04:17: Converting database to version 2
+2024-09-25 21:04:17: Converting database to version 3
+2024-09-25 21:04:17: Converting database to version 4
+2024-09-25 21:04:17: Converting database to version 5
+2024-09-25 21:04:17: Converting database to version 6
+2024-09-25 21:04:17: Converting database to version 7
+2024-09-25 21:04:17: Converting database to version 8
+2024-09-25 21:04:17: Converting database to version 9
+2024-09-25 21:04:17: Converting database to version 10
+2024-09-25 21:04:17: Converting database to version 11
+2024-09-25 21:04:17: Converting database to version 12
+2024-09-25 21:04:17: Converting database to version 13
+2024-09-25 21:04:17: Converting database to version 14
+2024-09-25 21:04:17: Converting database to version 15
+2024-09-25 21:04:17: Converting database to version 16
+2024-09-25 21:04:17: Converting database to version 17
+2024-09-25 21:04:17: Converting database to version 18
+2024-09-25 21:04:18: Converting database to version 19
+2024-09-25 21:04:18: Converting database to version 20
+2024-09-25 21:04:18: Converting database to version 21
+2024-09-25 21:04:18: Converting database to version 22
+2024-09-25 21:04:18: Converting database to version 23
+2024-09-25 21:04:18: Converting database to version 24
+2024-09-25 21:04:18: Converting database to version 25
+2024-09-25 21:04:18: Converting database to version 26
+2024-09-25 21:04:18: Converting database to version 27
+2024-09-25 21:04:18: Converting database to version 28
+2024-09-25 21:04:18: Converting database to version 29
+2024-09-25 21:04:18: Converting database to version 30
+2024-09-25 21:04:18: Converting database to version 31
+2024-09-25 21:04:18: Converting database to version 32
+2024-09-25 21:04:18: Converting database to version 33
+2024-09-25 21:04:18: Converting database to version 34
+2024-09-25 21:04:18: Migration failed with fallback and will not be repeated - saving version number
+2024-09-25 21:04:18: Converting database to version 35
+2024-09-25 21:04:18: Converting database to version 36
+2024-09-25 21:04:18: Converting database to version 37
+2024-09-25 21:04:18: Converting database to version 38
+2024-09-25 21:04:18: Converting database to version 39
+2024-09-25 21:04:18: Converting database to version 40
+2024-09-25 21:04:18: Converting database to version 41
+2024-09-25 21:04:18: Converting database to version 42
+2024-09-25 21:04:18: Converting database to version 43
+2024-09-25 21:04:18: Converting database to version 44
+2024-09-25 21:04:18: Converting database to version 45
+2024-09-25 21:04:18: Converting database to version 46
+2024-09-25 21:04:18: Converting database to version 47
+2024-09-25 21:04:18: New version: 47. Previously recorded version: 0
+2024-09-25 21:04:18: Initializing tables...
+2024-09-25 21:04:19: KeychainService: checking if keychain supported
+2024-09-25 21:04:19: KeychainService: could not set test password - keychain support will be disabled
+2024-09-25 21:04:19: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-25 21:04:19: handleSyncStartupOperation: Processing operation: 0
+2024-09-25 21:04:19: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-25 21:04:19: First start: detected locale as en_US
+2024-09-25 21:04:19: models/Setting: Skipping all default migrations...
+2024-09-25 21:04:19: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:04:19: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:04:19: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-25 21:04:19: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-25 21:04:19: ResourceFetcher: Auto-added resources: 0
+2024-09-25 21:04:19: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-25 21:04:19: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-25 21:04:19: Running migration: 20
+2024-09-25 21:04:19: DeleteAction: MigrationService: ; Item IDs: 1
+2024-09-25 21:04:19: Running migration: 27
+2024-09-25 21:04:19: DeleteAction: MigrationService: ; Item IDs: 2
+2024-09-25 21:04:19: Running migration: 33
+2024-09-25 21:04:19: SearchEngine: Updating FTS table...
+2024-09-25 21:04:19: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:04:19: SearchEngine: Updated FTS table in 5ms. Inserted: 0. Deleted: 0
+2024-09-25 21:04:19: DeleteAction: MigrationService: ; Item IDs: 3
+2024-09-25 21:04:19: Running migration: 35
+2024-09-25 21:04:19: SearchEngine: Updating FTS table...
+2024-09-25 21:04:19: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:04:19: SearchEngine: Updated FTS table in 4ms. Inserted: 0. Deleted: 0
+2024-09-25 21:04:19: DeleteAction: MigrationService: ; Item IDs: 4
+2024-09-25 21:04:19: Running migration: 42
+2024-09-25 21:04:19: DeleteAction: MigrationService: ; Item IDs: 5
+2024-09-25 21:04:20: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:04:20: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:04:20: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:04:20: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:04:20: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:04:20: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:04:20: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:04:20: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:04:20: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:04:20: App: FFFFFFFFFFFFF []
+2024-09-25 21:04:20: App: PARENT 
+2024-09-25 21:04:20: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-25 21:04:20: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727312660328,
+        "user_updated_time": 1727312660328,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:04:20: App: PARENT 
+2024-09-25 21:04:20: App: FFF Trash 
+2024-09-25 21:04:21: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-25 21:04:24: RevisionService: maintenance: Starting...
+2024-09-25 21:04:24: RevisionService: maintenance: Service is enabled
+2024-09-25 21:04:24: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-09-25 21:04:24: RevisionService: maintenance: Done in 140ms
+2024-09-25 21:04:29: SearchEngine: Updating FTS table...
+2024-09-25 21:04:29: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:04:29: SearchEngine: Updated FTS table in 3ms. Inserted: 0. Deleted: 0
+2024-09-25 21:04:30: Preparing scheduled sync
+2024-09-25 21:04:30: Sync cancelled - no sync target is selected.
+2024-09-25 21:04:50: ResourceService::indexNoteResources: Start
+2024-09-25 21:04:50: ResourceService::indexNoteResources: Completed
+2024-09-25 21:04:50: ResourceService::deleteOrphanResources: []
+2024-09-25 21:05:47: App: Profile directory: /home/taust/.config/joplin
+2024-09-25 21:05:47: App: Root profile directory: /home/taust/.config/joplin
+2024-09-25 21:05:47: Database was open successfully
+2024-09-25 21:05:47: Checking for database schema update...
+2024-09-25 21:05:47: Current database version {"version":47,"table_fields_version":47}
+2024-09-25 21:05:47: Upgrading database from version 47
+2024-09-25 21:05:47: New version: 47. Previously recorded version: 47
+2024-09-25 21:05:48: KeychainService: checking if keychain supported
+2024-09-25 21:05:48: KeychainService: check was already done - skipping. Supported: 0
+2024-09-25 21:05:48: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-25 21:05:48: handleSyncStartupOperation: Processing operation: 0
+2024-09-25 21:05:48: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-25 21:05:48: models/Setting: Applying default migrations...
+2024-09-25 21:05:48: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:05:48: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:05:48: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-25 21:05:48: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-25 21:05:48: ResourceFetcher: Auto-added resources: 0
+2024-09-25 21:05:48: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-25 21:05:48: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-25 21:05:48: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:05:48: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:05:48: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:05:48: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:05:48: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:05:48: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:05:48: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:05:48: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:05:48: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:05:48: App: FFFFFFFFFFFFF []
+2024-09-25 21:05:48: App: PARENT 
+2024-09-25 21:05:48: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-25 21:05:48: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727312748792,
+        "user_updated_time": 1727312748792,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:05:48: App: PARENT 
+2024-09-25 21:05:48: App: FFF Trash 
+2024-09-25 21:05:49: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-25 21:05:52: RevisionService: maintenance: Starting...
+2024-09-25 21:05:52: RevisionService: maintenance: Service is enabled
+2024-09-25 21:05:52: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-09-25 21:05:52: RevisionService: maintenance: Done in 106ms
+2024-09-25 21:05:58: SearchEngine: Updating FTS table...
+2024-09-25 21:05:58: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:05:58: SearchEngine: Updated FTS table in 4ms. Inserted: 0. Deleted: 0
+2024-09-25 21:05:58: Preparing scheduled sync
+2024-09-25 21:05:58: Sync cancelled - no sync target is selected.
+2024-09-25 21:06:03: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727312748792,
+        "user_updated_time": 1727312748792,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727312763522,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727312763522,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2
+    }
+]
+2024-09-25 21:06:03: App: PARENT 
+2024-09-25 21:06:03: App: FFF Trash 
+2024-09-25 21:06:03: App: FFF testing 
+2024-09-25 21:06:04: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727312763522,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727312763522,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727312764567,
+        "user_updated_time": 1727312764567,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:06:04: App: PARENT 
+2024-09-25 21:06:04: App: FFF testing 
+2024-09-25 21:06:04: App: FFF Trash 
+2024-09-25 21:06:06: Fetching geolocation...
+2024-09-25 21:06:07: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727312763522,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727312763522,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727312767951,
+        "user_updated_time": 1727312767951,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:06:07: App: PARENT 
+2024-09-25 21:06:07: App: FFF testing 
+2024-09-25 21:06:07: App: FFF Trash 
+2024-09-25 21:06:08: Got lat/long
+2024-09-25 21:06:08: Updating lat/long of note 69320f73249b42d380493a6c45a79e81
+2024-09-25 21:06:13: SearchEngine: Updating FTS table...
+2024-09-25 21:06:13: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:06:13: SearchEngine: Updated FTS table in 85ms. Inserted: 1. Deleted: 0
+2024-09-25 21:06:18: ResourceService::indexNoteResources: Start
+2024-09-25 21:06:18: ResourceService::indexNoteResources: Completed
+2024-09-25 21:06:18: ResourceService::deleteOrphanResources: []
+2024-09-25 21:06:23: Preparing scheduled sync
+2024-09-25 21:06:23: Sync cancelled - no sync target is selected.
+2024-09-25 21:06:25: Disabling fullscreen...
+2024-09-25 21:06:43: Disabling fullscreen...
+2024-09-25 21:08:11: SearchEngine: Updating FTS table...
+2024-09-25 21:08:11: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:08:11: SearchEngine: Updated FTS table in 126ms. Inserted: 1. Deleted: 0
+2024-09-25 21:08:16: Preparing scheduled sync
+2024-09-25 21:08:16: Sync cancelled - no sync target is selected.
+2024-09-25 21:09:04: Disabling fullscreen...
+2024-09-25 21:10:48: Running background sync on timer...
+2024-09-25 21:10:48: Preparing scheduled sync
+2024-09-25 21:10:48: Sync cancelled - no sync target is selected.
+2024-09-25 21:11:02: App: Profile directory: /home/taust/.config/joplin
+2024-09-25 21:11:02: App: Root profile directory: /home/taust/.config/joplin
+2024-09-25 21:11:02: Database was open successfully
+2024-09-25 21:11:02: Checking for database schema update...
+2024-09-25 21:11:02: Current database version {"version":47,"table_fields_version":47}
+2024-09-25 21:11:02: Upgrading database from version 47
+2024-09-25 21:11:02: New version: 47. Previously recorded version: 47
+2024-09-25 21:11:03: KeychainService: checking if keychain supported
+2024-09-25 21:11:03: KeychainService: check was already done - skipping. Supported: 0
+2024-09-25 21:11:03: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-25 21:11:03: handleSyncStartupOperation: Processing operation: 0
+2024-09-25 21:11:03: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-25 21:11:03: models/Setting: Applying default migrations...
+2024-09-25 21:11:03: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:11:03: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:11:03: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-25 21:11:03: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-25 21:11:03: ResourceFetcher: Auto-added resources: 0
+2024-09-25 21:11:03: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-25 21:11:03: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-25 21:11:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:11:03: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:11:03: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:11:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:11:03: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:11:03: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:11:03: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:11:03: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:11:03: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:11:03: App: FFFFFFFFFFFFF []
+2024-09-25 21:11:03: App: PARENT 
+2024-09-25 21:11:03: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-25 21:11:03: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727312763522,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727312763522,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727313063811,
+        "user_updated_time": 1727313063811,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:11:03: App: PARENT 
+2024-09-25 21:11:03: App: FFF testing 
+2024-09-25 21:11:03: App: FFF Trash 
+2024-09-25 21:11:04: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-25 21:11:07: Disabling fullscreen...
+2024-09-25 21:11:07: RevisionService: maintenance: Starting...
+2024-09-25 21:11:07: RevisionService: maintenance: Service is enabled
+2024-09-25 21:11:08: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-09-25 21:11:08: RevisionService: maintenance: Done in 190ms
+2024-09-25 21:11:08: Disabling fullscreen...
+2024-09-25 21:11:13: SearchEngine: Updating FTS table...
+2024-09-25 21:11:13: Disabling fullscreen...
+2024-09-25 21:13:54: Preparing scheduled sync
+2024-09-25 21:13:54: Sync cancelled - no sync target is selected.
+2024-09-25 21:13:54: ResourceService::indexNoteResources: Start
+2024-09-25 21:13:55: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:13:55: SearchEngine: Updated FTS table in 59ms. Inserted: 0. Deleted: 0
+2024-09-25 21:13:55: ResourceService::indexNoteResources: Completed
+2024-09-25 21:13:55: ResourceService::deleteOrphanResources: []
+2024-09-25 21:13:58: Disabling fullscreen...
+2024-09-25 21:14:05: SearchEngine: Updating FTS table...
+2024-09-25 21:14:05: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:14:05: SearchEngine: Updated FTS table in 147ms. Inserted: 1. Deleted: 0
+2024-09-25 21:36:14: App: Profile directory: /home/taust/.config/joplin
+2024-09-25 21:36:14: App: Root profile directory: /home/taust/.config/joplin
+2024-09-25 21:36:14: Database was open successfully
+2024-09-25 21:36:14: Checking for database schema update...
+2024-09-25 21:36:14: Current database version {"version":47,"table_fields_version":47}
+2024-09-25 21:36:14: Upgrading database from version 47
+2024-09-25 21:36:14: New version: 47. Previously recorded version: 47
+2024-09-25 21:36:14: KeychainService: checking if keychain supported
+2024-09-25 21:36:14: KeychainService: check was already done - skipping. Supported: 0
+2024-09-25 21:36:14: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-25 21:36:14: handleSyncStartupOperation: Processing operation: 0
+2024-09-25 21:36:14: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-25 21:36:14: models/Setting: Applying default migrations...
+2024-09-25 21:36:14: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:36:14: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:36:14: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-25 21:36:14: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-25 21:36:14: ResourceFetcher: Auto-added resources: 0
+2024-09-25 21:36:14: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-25 21:36:14: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-25 21:36:15: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:36:15: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:36:15: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:36:15: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:36:15: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:36:15: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:36:15: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:36:15: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:36:15: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:36:15: App: FFFFFFFFFFFFF []
+2024-09-25 21:36:15: App: PARENT 
+2024-09-25 21:36:15: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-25 21:36:15: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727312763522,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727312763522,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314575442,
+        "user_updated_time": 1727314575442,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:36:15: App: PARENT 
+2024-09-25 21:36:15: App: FFF testing 
+2024-09-25 21:36:15: App: FFF Trash 
+2024-09-25 21:36:16: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-25 21:36:19: RevisionService: maintenance: Starting...
+2024-09-25 21:36:19: RevisionService: maintenance: Service is enabled
+2024-09-25 21:36:19: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-09-25 21:36:19: RevisionService: maintenance: Done in 200ms
+2024-09-25 21:36:24: SearchEngine: Updating FTS table...
+2024-09-25 21:36:24: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:36:24: SearchEngine: Updated FTS table in 4ms. Inserted: 0. Deleted: 0
+2024-09-25 21:36:25: Preparing scheduled sync
+2024-09-25 21:36:25: Sync cancelled - no sync target is selected.
+2024-09-25 21:36:30: App: FFFFFFFFFFFFF [
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314575442,
+        "user_updated_time": 1727314575442,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:36:30: App: PARENT 
+2024-09-25 21:36:30: App: FFF Trash 
+2024-09-25 21:36:31: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314591490,
+        "user_updated_time": 1727314591490,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:36:31: App: PARENT 
+2024-09-25 21:36:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:31: App: FFF Trash 
+2024-09-25 21:36:31: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:31: App: FFF Trash 
+2024-09-25 21:36:39: App: FFFFFFFFFFFFF [
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314591490,
+        "user_updated_time": 1727314591490,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    },
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2
+    }
+]
+2024-09-25 21:36:39: App: PARENT 
+2024-09-25 21:36:39: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:39: App: FFF Trash 
+2024-09-25 21:36:39: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:39: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:39: App: FFF Trash 
+2024-09-25 21:36:39: App: FFF bandit 
+2024-09-25 21:36:39: App: FFF bandit 
+2024-09-25 21:36:40: SearchEngine: Updating FTS table...
+2024-09-25 21:36:40: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314600557,
+        "user_updated_time": 1727314600557,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:36:40: App: PARENT 
+2024-09-25 21:36:40: App: FFF bandit 
+2024-09-25 21:36:40: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:40: App: FFF Trash 
+2024-09-25 21:36:40: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:40: App: FFF bandit 
+2024-09-25 21:36:40: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:40: App: FFF Trash 
+2024-09-25 21:36:40: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:36:40: SearchEngine: Updated FTS table in 68ms. Inserted: 0. Deleted: 0
+2024-09-25 21:36:45: ResourceService::indexNoteResources: Start
+2024-09-25 21:36:45: ResourceService::indexNoteResources: Completed
+2024-09-25 21:36:45: ResourceService::deleteOrphanResources: []
+2024-09-25 21:36:52: Fetching geolocation...
+2024-09-25 21:36:53: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314613110,
+        "user_updated_time": 1727314613110,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:36:53: App: PARENT 
+2024-09-25 21:36:53: App: FFF bandit 
+2024-09-25 21:36:53: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:53: App: FFF Trash 
+2024-09-25 21:36:53: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:53: App: FFF bandit 
+2024-09-25 21:36:53: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:36:53: App: FFF Trash 
+2024-09-25 21:36:53: Disabling fullscreen...
+2024-09-25 21:38:07: SearchEngine: Updating FTS table...
+2024-09-25 21:38:07: Preparing scheduled sync
+2024-09-25 21:38:07: Sync cancelled - no sync target is selected.
+2024-09-25 21:38:08: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:38:08: SearchEngine: Updated FTS table in 110ms. Inserted: 1. Deleted: 0
+2024-09-25 21:38:08: Got lat/long
+2024-09-25 21:38:08: Updating lat/long of note 2d3d6b55dffb47a49af9438ae704a440
+2024-09-25 21:38:18: SearchEngine: Updating FTS table...
+2024-09-25 21:38:19: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:38:19: SearchEngine: Updated FTS table in 77ms. Inserted: 1. Deleted: 0
+2024-09-25 21:38:23: Preparing scheduled sync
+2024-09-25 21:38:23: Sync cancelled - no sync target is selected.
+2024-09-25 21:40:02: Updating lat/long of note ccbb7694e54848ab856854b3643a73a1
+2024-09-25 21:40:03: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 2
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314803406,
+        "user_updated_time": 1727314803406,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:40:03: App: PARENT 
+2024-09-25 21:40:03: App: FFF bandit 
+2024-09-25 21:40:03: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:40:03: App: FFF Trash 
+2024-09-25 21:40:03: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:40:03: App: FFF bandit 
+2024-09-25 21:40:03: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:40:03: App: FFF Trash 
+2024-09-25 21:40:06: Disabling fullscreen...
+2024-09-25 21:41:10: SearchEngine: Updating FTS table...
+2024-09-25 21:41:10: Preparing scheduled sync
+2024-09-25 21:41:10: Sync cancelled - no sync target is selected.
+2024-09-25 21:41:10: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:41:10: SearchEngine: Updated FTS table in 67ms. Inserted: 1. Deleted: 0
+2024-09-25 21:41:15: Running background sync on timer...
+2024-09-25 21:41:15: Preparing scheduled sync
+2024-09-25 21:41:15: Sync cancelled - no sync target is selected.
+2024-09-25 21:41:44: Updating lat/long of note e09aa459f18f4497b638170533d7a0b3
+2024-09-25 21:41:45: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727314905165,
+        "user_updated_time": 1727314905165,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:41:45: App: PARENT 
+2024-09-25 21:41:45: App: FFF bandit 
+2024-09-25 21:41:45: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:41:45: App: FFF Trash 
+2024-09-25 21:41:45: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:41:45: App: FFF bandit 
+2024-09-25 21:41:45: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:41:45: App: FFF Trash 
+2024-09-25 21:41:47: Disabling fullscreen...
+2024-09-25 21:42:38: SearchEngine: Updating FTS table...
+2024-09-25 21:42:38: Preparing scheduled sync
+2024-09-25 21:42:38: Sync cancelled - no sync target is selected.
+2024-09-25 21:42:38: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:42:38: SearchEngine: Updated FTS table in 106ms. Inserted: 1. Deleted: 0
+2024-09-25 21:42:53: Preparing scheduled sync
+2024-09-25 21:42:53: Sync cancelled - no sync target is selected.
+2024-09-25 21:43:43: Updating lat/long of note 490a9b6a758e48e68c5b54769b7e2778
+2024-09-25 21:43:45: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 4
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315024976,
+        "user_updated_time": 1727315024976,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:43:45: App: PARENT 
+2024-09-25 21:43:45: App: FFF bandit 
+2024-09-25 21:43:45: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:43:45: App: FFF Trash 
+2024-09-25 21:43:45: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:43:45: App: FFF bandit 
+2024-09-25 21:43:45: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:43:45: App: FFF Trash 
+2024-09-25 21:43:47: Disabling fullscreen...
+2024-09-25 21:44:40: SearchEngine: Updating FTS table...
+2024-09-25 21:44:40: Preparing scheduled sync
+2024-09-25 21:44:40: Sync cancelled - no sync target is selected.
+2024-09-25 21:44:41: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:44:41: SearchEngine: Updated FTS table in 119ms. Inserted: 1. Deleted: 0
+2024-09-25 21:44:55: Preparing scheduled sync
+2024-09-25 21:44:55: Sync cancelled - no sync target is selected.
+2024-09-25 21:46:15: Running background sync on timer...
+2024-09-25 21:46:15: Preparing scheduled sync
+2024-09-25 21:46:15: Sync cancelled - no sync target is selected.
+2024-09-25 21:46:15: RevisionService: maintenance: Starting...
+2024-09-25 21:46:15: RevisionService: maintenance: Service is enabled
+2024-09-25 21:46:15: RevisionService: collectRevisions: Created revisions for 5 notes
+2024-09-25 21:46:15: RevisionService: maintenance: Done in 266ms
+2024-09-25 21:51:15: Running background sync on timer...
+2024-09-25 21:51:15: Preparing scheduled sync
+2024-09-25 21:51:15: Sync cancelled - no sync target is selected.
+2024-09-25 21:52:22: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315541991,
+        "user_updated_time": 1727315541991,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:52:22: App: PARENT 
+2024-09-25 21:52:22: App: FFF bandit 
+2024-09-25 21:52:22: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:22: App: FFF Trash 
+2024-09-25 21:52:22: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:22: App: FFF bandit 
+2024-09-25 21:52:22: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:22: App: FFF Trash 
+2024-09-25 21:52:28: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315548565,
+        "user_updated_time": 1727315548565,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:52:28: App: PARENT 
+2024-09-25 21:52:28: App: FFF bandit 
+2024-09-25 21:52:28: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:28: App: FFF Trash 
+2024-09-25 21:52:28: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:28: App: FFF bandit 
+2024-09-25 21:52:28: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:28: App: FFF Trash 
+2024-09-25 21:52:30: SearchEngine: Updating FTS table...
+2024-09-25 21:52:30: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:52:30: SearchEngine: Updated FTS table in 91ms. Inserted: 0. Deleted: 0
+2024-09-25 21:52:47: App: Profile directory: /home/taust/.config/joplin
+2024-09-25 21:52:47: App: Root profile directory: /home/taust/.config/joplin
+2024-09-25 21:52:47: Database was open successfully
+2024-09-25 21:52:47: Checking for database schema update...
+2024-09-25 21:52:47: Current database version {"version":47,"table_fields_version":47}
+2024-09-25 21:52:47: Upgrading database from version 47
+2024-09-25 21:52:47: New version: 47. Previously recorded version: 47
+2024-09-25 21:52:47: KeychainService: checking if keychain supported
+2024-09-25 21:52:47: KeychainService: check was already done - skipping. Supported: 0
+2024-09-25 21:52:47: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-25 21:52:47: handleSyncStartupOperation: Processing operation: 0
+2024-09-25 21:52:47: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-25 21:52:47: models/Setting: Applying default migrations...
+2024-09-25 21:52:47: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:52:47: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:52:47: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-25 21:52:47: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-25 21:52:47: ResourceFetcher: Auto-added resources: 0
+2024-09-25 21:52:47: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-25 21:52:47: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-25 21:52:47: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:52:47: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:52:47: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:52:47: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:52:47: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:52:47: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:52:47: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-25 21:52:47: e2ee/utils: Trying to load 0 master keys...
+2024-09-25 21:52:47: e2ee/utils: Loaded master keys: 0
+2024-09-25 21:52:47: App: FFFFFFFFFFFFF []
+2024-09-25 21:52:47: App: PARENT 
+2024-09-25 21:52:48: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-25 21:52:48: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315568028,
+        "user_updated_time": 1727315568028,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:52:48: App: PARENT 
+2024-09-25 21:52:48: App: FFF bandit 
+2024-09-25 21:52:48: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:48: App: FFF Trash 
+2024-09-25 21:52:48: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:48: App: FFF bandit 
+2024-09-25 21:52:48: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:52:48: App: FFF Trash 
+2024-09-25 21:52:48: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-25 21:52:52: RevisionService: maintenance: Starting...
+2024-09-25 21:52:52: RevisionService: maintenance: Service is enabled
+2024-09-25 21:52:52: RevisionService: collectRevisions: Created revisions for 4 notes
+2024-09-25 21:52:52: RevisionService: maintenance: Done in 186ms
+2024-09-25 21:52:54: Disabling fullscreen...
+2024-09-25 21:52:58: SearchEngine: Updating FTS table...
+2024-09-25 21:52:58: Preparing scheduled sync
+2024-09-25 21:52:58: Sync cancelled - no sync target is selected.
+2024-09-25 21:52:58: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:52:58: SearchEngine: Updated FTS table in 6ms. Inserted: 0. Deleted: 0
+2024-09-25 21:53:11: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315591154,
+        "user_updated_time": 1727315591154,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:53:11: App: PARENT 
+2024-09-25 21:53:11: App: FFF bandit 
+2024-09-25 21:53:11: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:11: App: FFF Trash 
+2024-09-25 21:53:11: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:11: App: FFF bandit 
+2024-09-25 21:53:11: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:11: App: FFF Trash 
+2024-09-25 21:53:18: ResourceService::indexNoteResources: Start
+2024-09-25 21:53:18: ResourceService::indexNoteResources: Completed
+2024-09-25 21:53:18: ResourceService::deleteOrphanResources: []
+2024-09-25 21:53:20: SearchEngine: Updating FTS table...
+2024-09-25 21:53:20: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:53:20: SearchEngine: Updated FTS table in 107ms. Inserted: 2. Deleted: 0
+2024-09-25 21:53:20: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 2
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315600451,
+        "user_updated_time": 1727315600451,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:53:20: App: PARENT 
+2024-09-25 21:53:20: App: FFF bandit 
+2024-09-25 21:53:20: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:20: App: FFF Trash 
+2024-09-25 21:53:20: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:20: App: FFF bandit 
+2024-09-25 21:53:20: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:20: App: FFF Trash 
+2024-09-25 21:53:24: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 3
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315604346,
+        "user_updated_time": 1727315604346,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:53:24: App: PARENT 
+2024-09-25 21:53:24: App: FFF bandit 
+2024-09-25 21:53:24: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:24: App: FFF Trash 
+2024-09-25 21:53:24: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:24: App: FFF bandit 
+2024-09-25 21:53:24: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:24: App: FFF Trash 
+2024-09-25 21:53:31: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 4
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315611461,
+        "user_updated_time": 1727315611461,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:53:31: App: PARENT 
+2024-09-25 21:53:31: App: FFF bandit 
+2024-09-25 21:53:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:31: App: FFF Trash 
+2024-09-25 21:53:31: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:31: App: FFF bandit 
+2024-09-25 21:53:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:53:31: App: FFF Trash 
+2024-09-25 21:53:33: SearchEngine: Updating FTS table...
+2024-09-25 21:53:33: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:53:33: SearchEngine: Updated FTS table in 84ms. Inserted: 2. Deleted: 0
+2024-09-25 21:53:45: Preparing scheduled sync
+2024-09-25 21:53:45: Sync cancelled - no sync target is selected.
+2024-09-25 21:56:58: Fetching geolocation...
+2024-09-25 21:57:00: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 5
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727315819994,
+        "user_updated_time": 1727315819994,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 21:57:00: App: PARENT 
+2024-09-25 21:57:00: App: FFF bandit 
+2024-09-25 21:57:00: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:57:00: App: FFF Trash 
+2024-09-25 21:57:00: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:57:00: App: FFF bandit 
+2024-09-25 21:57:00: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 21:57:00: App: FFF Trash 
+2024-09-25 21:57:00: Got lat/long
+2024-09-25 21:57:00: Updating lat/long of note 0d62e6da92fd4baaa82e4057ee1826e3
+2024-09-25 21:57:01: Disabling fullscreen...
+2024-09-25 21:58:07: SearchEngine: Updating FTS table...
+2024-09-25 21:58:07: Preparing scheduled sync
+2024-09-25 21:58:07: Sync cancelled - no sync target is selected.
+2024-09-25 21:58:07: Running background sync on timer...
+2024-09-25 21:58:07: Preparing scheduled sync
+2024-09-25 21:58:07: Sync cancelled - no sync target is selected.
+2024-09-25 21:58:07: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 21:58:07: SearchEngine: Updated FTS table in 144ms. Inserted: 1. Deleted: 0
+2024-09-25 21:58:22: Preparing scheduled sync
+2024-09-25 21:58:22: Sync cancelled - no sync target is selected.
+2024-09-25 22:01:55: Updating lat/long of note ed2fa9b0ffdc41d1b3de62fa0101137e
+2024-09-25 22:01:56: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 6
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727316116105,
+        "user_updated_time": 1727316116105,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 22:01:56: App: PARENT 
+2024-09-25 22:01:56: App: FFF bandit 
+2024-09-25 22:01:56: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:01:56: App: FFF Trash 
+2024-09-25 22:01:56: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:01:56: App: FFF bandit 
+2024-09-25 22:01:56: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:01:56: App: FFF Trash 
+2024-09-25 22:01:56: Disabling fullscreen...
+2024-09-25 22:03:48: SearchEngine: Updating FTS table...
+2024-09-25 22:03:48: Preparing scheduled sync
+2024-09-25 22:03:48: Sync cancelled - no sync target is selected.
+2024-09-25 22:03:48: RevisionService: maintenance: Starting...
+2024-09-25 22:03:48: RevisionService: maintenance: Service is enabled
+2024-09-25 22:03:48: Running background sync on timer...
+2024-09-25 22:03:48: Preparing scheduled sync
+2024-09-25 22:03:48: Sync cancelled - no sync target is selected.
+2024-09-25 22:03:48: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 22:03:48: SearchEngine: Updated FTS table in 264ms. Inserted: 1. Deleted: 0
+2024-09-25 22:03:48: RevisionService: collectRevisions: Created revisions for 6 notes
+2024-09-25 22:03:48: RevisionService: maintenance: Done in 423ms
+2024-09-25 22:04:03: Preparing scheduled sync
+2024-09-25 22:04:03: Sync cancelled - no sync target is selected.
+2024-09-25 22:08:48: Running background sync on timer...
+2024-09-25 22:08:48: Preparing scheduled sync
+2024-09-25 22:08:48: Sync cancelled - no sync target is selected.
+2024-09-25 22:12:56: Fetching geolocation...
+2024-09-25 22:12:57: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727316777861,
+        "user_updated_time": 1727316777861,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-25 22:12:57: App: PARENT 
+2024-09-25 22:12:57: App: FFF bandit 
+2024-09-25 22:12:57: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:12:57: App: FFF Trash 
+2024-09-25 22:12:57: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:12:57: App: FFF bandit 
+2024-09-25 22:12:57: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-25 22:12:57: App: FFF Trash 
+2024-09-25 22:12:58: Disabling fullscreen...
+2024-09-25 22:14:26: SearchEngine: Updating FTS table...
+2024-09-25 22:14:26: Preparing scheduled sync
+2024-09-25 22:14:26: Sync cancelled - no sync target is selected.
+2024-09-25 22:14:26: RevisionService: maintenance: Starting...
+2024-09-25 22:14:26: RevisionService: maintenance: Service is enabled
+2024-09-25 22:14:26: Running background sync on timer...
+2024-09-25 22:14:26: Preparing scheduled sync
+2024-09-25 22:14:26: Sync cancelled - no sync target is selected.
+2024-09-25 22:14:26: Got lat/long
+2024-09-25 22:14:26: Updating lat/long of note 91564c3bd02f412d9b7ab8024dd0f314
+2024-09-25 22:14:26: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-09-25 22:14:26: RevisionService: maintenance: Done in 234ms
+2024-09-25 22:14:26: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 22:14:26: SearchEngine: Updated FTS table in 138ms. Inserted: 1. Deleted: 0
+2024-09-25 22:14:28: Disabling fullscreen...
+2024-09-25 22:15:25: Preparing scheduled sync
+2024-09-25 22:15:25: Sync cancelled - no sync target is selected.
+2024-09-25 22:15:35: SearchEngine: Updating FTS table...
+2024-09-25 22:15:35: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-25 22:15:35: SearchEngine: Updated FTS table in 77ms. Inserted: 1. Deleted: 0
+2024-09-25 22:15:40: Preparing scheduled sync
+2024-09-25 22:15:40: Sync cancelled - no sync target is selected.
+2024-09-26 09:44:24: App: Profile directory: /home/taust/.config/joplin
+2024-09-26 09:44:24: App: Root profile directory: /home/taust/.config/joplin
+2024-09-26 09:44:24: Database was open successfully
+2024-09-26 09:44:24: Checking for database schema update...
+2024-09-26 09:44:24: Current database version {"version":47,"table_fields_version":47}
+2024-09-26 09:44:24: Upgrading database from version 47
+2024-09-26 09:44:24: New version: 47. Previously recorded version: 47
+2024-09-26 09:44:24: KeychainService: checking if keychain supported
+2024-09-26 09:44:24: KeychainService: check was already done - skipping. Supported: 0
+2024-09-26 09:44:24: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-26 09:44:24: handleSyncStartupOperation: Processing operation: 0
+2024-09-26 09:44:24: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-26 09:44:24: models/Setting: Applying default migrations...
+2024-09-26 09:44:24: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:44:24: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:44:24: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-26 09:44:24: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-26 09:44:24: ResourceFetcher: Auto-added resources: 0
+2024-09-26 09:44:24: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-26 09:44:24: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-26 09:44:25: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:44:25: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:44:25: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:44:25: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:44:25: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:44:25: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:44:25: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:44:25: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:44:25: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:44:25: App: FFFFFFFFFFFFF []
+2024-09-26 09:44:25: App: PARENT 
+2024-09-26 09:44:25: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-26 09:44:25: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358265731,
+        "user_updated_time": 1727358265731,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:44:25: App: PARENT 
+2024-09-26 09:44:25: App: FFF bandit 
+2024-09-26 09:44:25: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:25: App: FFF Trash 
+2024-09-26 09:44:25: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:25: App: FFF bandit 
+2024-09-26 09:44:25: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:25: App: FFF Trash 
+2024-09-26 09:44:26: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-26 09:44:29: RevisionService: maintenance: Starting...
+2024-09-26 09:44:29: RevisionService: maintenance: Service is enabled
+2024-09-26 09:44:29: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-09-26 09:44:29: RevisionService: maintenance: Done in 181ms
+2024-09-26 09:44:34: SearchEngine: Updating FTS table...
+2024-09-26 09:44:34: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:44:34: SearchEngine: Updated FTS table in 7ms. Inserted: 0. Deleted: 0
+2024-09-26 09:44:35: Preparing scheduled sync
+2024-09-26 09:44:35: Sync cancelled - no sync target is selected.
+2024-09-26 09:44:41: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358265731,
+        "user_updated_time": 1727358265731,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2
+    }
+]
+2024-09-26 09:44:41: App: PARENT 
+2024-09-26 09:44:41: App: FFF bandit 
+2024-09-26 09:44:41: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:41: App: FFF Trash 
+2024-09-26 09:44:41: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:41: App: FFF bandit 
+2024-09-26 09:44:41: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:41: App: FFF Trash 
+2024-09-26 09:44:41: App: FFF notebooks 
+2024-09-26 09:44:41: App: FFF notebooks 
+2024-09-26 09:44:42: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358282405,
+        "user_updated_time": 1727358282405,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:44:42: App: PARENT 
+2024-09-26 09:44:42: App: FFF bandit 
+2024-09-26 09:44:42: App: FFF notebooks 
+2024-09-26 09:44:42: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:42: App: FFF Trash 
+2024-09-26 09:44:42: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:42: App: FFF bandit 
+2024-09-26 09:44:42: App: FFF notebooks 
+2024-09-26 09:44:42: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:44:42: App: FFF Trash 
+2024-09-26 09:44:45: Fetching geolocation...
+2024-09-26 09:44:46: Disabling fullscreen...
+2024-09-26 09:45:14: SearchEngine: Updating FTS table...
+2024-09-26 09:45:14: ResourceService::indexNoteResources: Start
+2024-09-26 09:45:14: Preparing scheduled sync
+2024-09-26 09:45:14: Sync cancelled - no sync target is selected.
+2024-09-26 09:45:14: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358314323,
+        "user_updated_time": 1727358314323,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:45:14: App: PARENT 
+2024-09-26 09:45:14: App: FFF bandit 
+2024-09-26 09:45:14: App: FFF notebooks 
+2024-09-26 09:45:14: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:45:14: App: FFF Trash 
+2024-09-26 09:45:14: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:45:14: App: FFF bandit 
+2024-09-26 09:45:14: App: FFF notebooks 
+2024-09-26 09:45:14: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:45:14: App: FFF Trash 
+2024-09-26 09:45:14: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:45:14: SearchEngine: Updated FTS table in 303ms. Inserted: 1. Deleted: 0
+2024-09-26 09:45:14: ResourceService::indexNoteResources: Completed
+2024-09-26 09:45:14: ResourceService::deleteOrphanResources: []
+2024-09-26 09:45:14: Got lat/long
+2024-09-26 09:45:14: Updating lat/long of note 015c80becc2246acb60b2ec29cc33ed0
+2024-09-26 09:45:24: SearchEngine: Updating FTS table...
+2024-09-26 09:45:25: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:45:25: SearchEngine: Updated FTS table in 69ms. Inserted: 1. Deleted: 0
+2024-09-26 09:45:29: Preparing scheduled sync
+2024-09-26 09:45:29: Sync cancelled - no sync target is selected.
+2024-09-26 09:51:30: App: Profile directory: /home/taust/.config/joplin
+2024-09-26 09:51:30: App: Root profile directory: /home/taust/.config/joplin
+2024-09-26 09:51:30: Database was open successfully
+2024-09-26 09:51:30: Checking for database schema update...
+2024-09-26 09:51:30: Current database version {"version":47,"table_fields_version":47}
+2024-09-26 09:51:30: Upgrading database from version 47
+2024-09-26 09:51:30: New version: 47. Previously recorded version: 47
+2024-09-26 09:51:30: KeychainService: checking if keychain supported
+2024-09-26 09:51:30: KeychainService: check was already done - skipping. Supported: 0
+2024-09-26 09:51:30: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-26 09:51:30: handleSyncStartupOperation: Processing operation: 0
+2024-09-26 09:51:30: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-26 09:51:30: models/Setting: Applying default migrations...
+2024-09-26 09:51:30: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:51:30: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:51:30: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-26 09:51:30: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-26 09:51:30: ResourceFetcher: Auto-added resources: 0
+2024-09-26 09:51:30: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-26 09:51:30: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-26 09:51:31: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:51:31: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:51:31: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:51:31: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:51:31: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:51:31: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:51:31: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:51:31: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:51:31: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:51:31: App: FFFFFFFFFFFFF []
+2024-09-26 09:51:31: App: PARENT 
+2024-09-26 09:51:31: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-26 09:51:31: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358691167,
+        "user_updated_time": 1727358691167,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:51:31: App: PARENT 
+2024-09-26 09:51:31: App: FFF bandit 
+2024-09-26 09:51:31: App: FFF notebooks 
+2024-09-26 09:51:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:51:31: App: FFF Trash 
+2024-09-26 09:51:31: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:51:31: App: FFF bandit 
+2024-09-26 09:51:31: App: FFF notebooks 
+2024-09-26 09:51:31: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:51:31: App: FFF Trash 
+2024-09-26 09:51:32: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-26 09:51:35: RevisionService: maintenance: Starting...
+2024-09-26 09:51:35: RevisionService: maintenance: Service is enabled
+2024-09-26 09:51:35: RevisionService: collectRevisions: Created revisions for 1 notes
+2024-09-26 09:51:35: RevisionService: maintenance: Done in 176ms
+2024-09-26 09:51:40: SearchEngine: Updating FTS table...
+2024-09-26 09:51:40: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:51:40: SearchEngine: Updated FTS table in 4ms. Inserted: 0. Deleted: 0
+2024-09-26 09:51:41: Preparing scheduled sync
+2024-09-26 09:51:41: Sync cancelled - no sync target is selected.
+2024-09-26 09:54:20: App: Profile directory: /home/taust/.config/joplin
+2024-09-26 09:54:20: App: Root profile directory: /home/taust/.config/joplin
+2024-09-26 09:54:20: Database was open successfully
+2024-09-26 09:54:20: Checking for database schema update...
+2024-09-26 09:54:20: Current database version {"version":47,"table_fields_version":47}
+2024-09-26 09:54:20: Upgrading database from version 47
+2024-09-26 09:54:20: New version: 47. Previously recorded version: 47
+2024-09-26 09:54:21: KeychainService: checking if keychain supported
+2024-09-26 09:54:21: KeychainService: check was already done - skipping. Supported: 0
+2024-09-26 09:54:21: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-26 09:54:21: handleSyncStartupOperation: Processing operation: 0
+2024-09-26 09:54:21: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-26 09:54:21: models/Setting: Applying default migrations...
+2024-09-26 09:54:21: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:54:21: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:54:21: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-26 09:54:21: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-26 09:54:21: ResourceFetcher: Auto-added resources: 0
+2024-09-26 09:54:21: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-26 09:54:21: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-26 09:54:21: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:54:21: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:54:21: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:54:21: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:54:21: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:54:21: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:54:21: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:54:21: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:54:21: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:54:21: App: FFFFFFFFFFFFF []
+2024-09-26 09:54:21: App: PARENT 
+2024-09-26 09:54:21: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-26 09:54:21: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727358861790,
+        "user_updated_time": 1727358861790,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:54:21: App: PARENT 
+2024-09-26 09:54:21: App: FFF bandit 
+2024-09-26 09:54:21: App: FFF notebooks 
+2024-09-26 09:54:21: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:54:21: App: FFF Trash 
+2024-09-26 09:54:21: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:54:21: App: FFF bandit 
+2024-09-26 09:54:21: App: FFF notebooks 
+2024-09-26 09:54:21: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:54:21: App: FFF Trash 
+2024-09-26 09:54:22: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-26 09:54:25: RevisionService: maintenance: Starting...
+2024-09-26 09:54:25: RevisionService: maintenance: Service is enabled
+2024-09-26 09:54:25: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-09-26 09:54:25: RevisionService: maintenance: Done in 109ms
+2024-09-26 09:54:31: SearchEngine: Updating FTS table...
+2024-09-26 09:54:31: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:54:31: SearchEngine: Updated FTS table in 8ms. Inserted: 0. Deleted: 0
+2024-09-26 09:54:31: Preparing scheduled sync
+2024-09-26 09:54:31: Sync cancelled - no sync target is selected.
+2024-09-26 09:54:51: ResourceService::indexNoteResources: Start
+2024-09-26 09:54:52: ResourceService::indexNoteResources: Completed
+2024-09-26 09:54:52: ResourceService::deleteOrphanResources: []
+2024-09-26 09:56:49: App: Profile directory: /home/taust/.config/joplin
+2024-09-26 09:56:49: App: Root profile directory: /home/taust/.config/joplin
+2024-09-26 09:56:49: Database was open successfully
+2024-09-26 09:56:49: Checking for database schema update...
+2024-09-26 09:56:49: Current database version {"version":47,"table_fields_version":47}
+2024-09-26 09:56:49: Upgrading database from version 47
+2024-09-26 09:56:49: New version: 47. Previously recorded version: 47
+2024-09-26 09:56:49: KeychainService: checking if keychain supported
+2024-09-26 09:56:49: KeychainService: check was already done - skipping. Supported: 0
+2024-09-26 09:56:49: e2ee/utils: Master password is not set - trying to get it from the active master key...
+2024-09-26 09:56:49: handleSyncStartupOperation: Processing operation: 0
+2024-09-26 09:56:49: App: Client ID: 505000268866491796bee37d1607ed3c
+2024-09-26 09:56:49: models/Setting: Applying default migrations...
+2024-09-26 09:56:49: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:56:49: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:56:49: ResourceFetcher: Auto-add resources: Mode: always
+2024-09-26 09:56:49: permanentlyDeleteOldData: Processing items older than 7776000000ms...
+2024-09-26 09:56:49: ResourceFetcher: Auto-added resources: 0
+2024-09-26 09:56:49: permanentlyDeleteOldData: Items to permanently delete: {"noteIds":[],"folderIds":[]}
+2024-09-26 09:56:49: checkDisabledSyncItemsNotification: No errors: Hiding notification
+2024-09-26 09:56:50: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:56:50: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:56:50: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:56:50: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:56:50: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:56:50: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:56:50: App: "syncInfoCache" was changed - setting up encryption related code
+2024-09-26 09:56:50: e2ee/utils: Trying to load 0 master keys...
+2024-09-26 09:56:50: e2ee/utils: Loaded master keys: 0
+2024-09-26 09:56:50: App: FFFFFFFFFFFFF []
+2024-09-26 09:56:50: App: PARENT 
+2024-09-26 09:56:50: RevisionService: runInBackground: Starting background service with revision collection interval 600000
+2024-09-26 09:56:50: App: FFFFFFFFFFFFF [
+    {
+        "id": "d6c0b2af4bdd4a33ae40fa34adeb602e",
+        "title": "bandit",
+        "created_time": 1727314599517,
+        "updated_time": 1727314599517,
+        "user_created_time": 1727314599517,
+        "user_updated_time": 1727314599517,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 7
+    },
+    {
+        "id": "59fa55105a754bffa95b263fc8318ede",
+        "title": "notebooks",
+        "created_time": 1727358281371,
+        "updated_time": 1727358281371,
+        "user_created_time": 1727358281371,
+        "user_updated_time": 1727358281371,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 0,
+        "type_": 2,
+        "note_count": 1
+    },
+    {
+        "id": "fa0397b6976f46b6a144c075a6c9eb3e",
+        "title": "testing",
+        "created_time": 1727312763522,
+        "updated_time": 1727314590478,
+        "user_created_time": 1727312763522,
+        "user_updated_time": 1727314590478,
+        "encryption_cipher_text": "",
+        "encryption_applied": 0,
+        "parent_id": "",
+        "is_shared": 0,
+        "share_id": "",
+        "master_key_id": "",
+        "icon": "",
+        "user_data": "",
+        "deleted_time": 1727314590477,
+        "type_": 2,
+        "note_count": 0
+    },
+    {
+        "type_": 2,
+        "id": "de1e7ede1e7ede1e7ede1e7ede1e7ede",
+        "parent_id": "",
+        "title": "Trash",
+        "updated_time": 1727359010226,
+        "user_updated_time": 1727359010226,
+        "share_id": "",
+        "is_shared": 0,
+        "deleted_time": 0,
+        "note_count": 0
+    }
+]
+2024-09-26 09:56:50: App: PARENT 
+2024-09-26 09:56:50: App: FFF bandit 
+2024-09-26 09:56:50: App: FFF notebooks 
+2024-09-26 09:56:50: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:56:50: App: FFF Trash 
+2024-09-26 09:56:50: App: PARENT de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:56:50: App: FFF bandit 
+2024-09-26 09:56:50: App: FFF notebooks 
+2024-09-26 09:56:50: App: FFF testing de1e7ede1e7ede1e7ede1e7ede1e7ede
+2024-09-26 09:56:50: App: FFF Trash 
+2024-09-26 09:56:51: DecryptionWorker: cannot start because no master key is currently loaded.
+2024-09-26 09:56:54: RevisionService: maintenance: Starting...
+2024-09-26 09:56:54: RevisionService: maintenance: Service is enabled
+2024-09-26 09:56:54: RevisionService: collectRevisions: Created revisions for 0 notes
+2024-09-26 09:56:54: RevisionService: maintenance: Done in 112ms
+2024-09-26 09:56:55: Disabling fullscreen...
+2024-09-26 09:57:07: SearchEngine: Updating FTS table...
+2024-09-26 09:57:07: Preparing scheduled sync
+2024-09-26 09:57:07: Sync cancelled - no sync target is selected.
+2024-09-26 09:57:07: Updating items_normalized from {"updated_time":0,"id":""}
+2024-09-26 09:57:07: SearchEngine: Updated FTS table in 121ms. Inserted: 1. Deleted: 0
+2024-09-26 09:57:10: Disabling fullscreen...

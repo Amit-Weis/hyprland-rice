@@ -1,0 +1,19 @@
+{
+  "prefs": {
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-10-07T22:12:55.332241Z\",\"is_unlimited\":false}",
+    "HasDismissedWarpDriveWelcome": "true",
+    "AIAutoDetectionEnabled": "false",
+    "AIRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-10-07T22:12:55.332241Z\",\"is_unlimited\":false}",
+    "ChangelogVersions": "{\"v0.2024.09.03.08.02.stable_03\":true}",
+    "AutosuggestionAcceptedCount": "1",
+    "WelcomeTipsFeaturesUsed": "[{\"Hint\":\"CreateBlock\"},{\"Action\":\"OpenWarpDrive\"}]",
+    "TelemetryEnabled": "true",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "FontSize": "9.0",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "ExperimentId": "46f58645-a73e-4f80-88dd-532fea4971cc",
+    "CrashReportingEnabled": "true",
+    "AgentModeOnboardingBlockShown": "true"
+  }
+}

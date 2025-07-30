@@ -1,0 +1,10 @@
+2024/09/04-17:42:18.782 6dc9 Reusing MANIFEST /home/taust/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-17:42:18.784 6dc9 Recovering log #43
+2024/09/04-17:42:19.084 6dc9 Reusing old log /home/taust/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000043.log 
+2024/09/04-17:42:22.727 6e29 Level-0 table #48: started
+2024/09/04-17:42:22.813 6e29 Level-0 table #48: 818604 bytes OK
+2024/09/04-17:42:22.823 6e29 Delete type=0 #43
+2024/09/04-17:42:23.099 6e29 Compacting 1@1 + 1@2 files
+2024/09/04-17:42:23.184 6e29 Generated table #49@1: 5781 keys, 312134 bytes
+2024/09/04-17:42:23.184 6e29 Compacted 1@1 + 1@2 files => 312134 bytes
+2024/09/04-17:42:23.190 6e29 compacted to: files[ 0 0 1 0 0 0 0 ]
